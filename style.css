@@ -421,6 +421,10 @@ section .title::after{
     background: crimson!important;
 }
 
+.contact{
+    background-color: rgb(177, 255, 255);
+}
+
 /* contact section styling */
 .contact .title::after{
     content: "Get in touch";
